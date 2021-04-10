@@ -15,17 +15,25 @@
 <pre>
 <?php
 
-    echo "_SERVER:\n";
-    print_r($_SERVER);
+echo "_SERVER:\n";
+print_r($_SERVER);
 
-    echo "_REQUEST:\n";
-    print_r($_REQUEST);
+echo "_REQUEST:\n";
+print_r($_REQUEST);
 
-    echo "_GET:\n";
-    print_r($_GET);
+echo "_GET:\n";
+print_r($_GET);
 
-    echo "_POST:\n";
-    print_r($_POST);
+echo "_POST:\n";
+print_r($_POST);
 
 ?>
 </pre>
+
+<h1>The HTTP method is:
+    <?php
+
+    echo $_SERVER['REQUEST_METHOD'];
+
+    ?>
+</h1>
