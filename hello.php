@@ -186,7 +186,7 @@
 
     echo "<pre>";
     print_r($_SERVER);
-    echo "\n";
+    echo "\n\n\n\n";
     print_r($_REQUEST);
     // echo "Hello, $_GET['name']!";
     echo $_GET['name'];
