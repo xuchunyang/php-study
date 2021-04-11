@@ -2,3 +2,8 @@
 tailwind.min.css
 
 /vendor/
+
+*.db
+*.txt
+*.sql
+

@@ -3,7 +3,8 @@
     "type": "project",
     "require": {
         "ext-json": "^8.0",
-        "alrik11es/cowsayphp": "^1.2"
+        "alrik11es/cowsayphp": "^1.2",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "webmozart/assert": "^1.10"
