@@ -1,0 +1,17 @@
+{
+    "name": "xcy/php-study",
+    "type": "project",
+    "require": {
+        "ext-json": "^8.0",
+        "alrik11es/cowsayphp": "^1.2"
+    },
+    "require-dev": {
+        "webmozart/assert": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "Xu Chunyang",
+            "email": "xuchunyang56@gmail.com"
+        }
+    ]
+}

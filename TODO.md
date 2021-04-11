@@ -1,1 +1,1 @@
-- [ ] write a file server for /
+- [x] write a file server for /
