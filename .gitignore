@@ -7,3 +7,4 @@ tailwind.min.css
 *.txt
 *.sql
 
+*.sqlite
