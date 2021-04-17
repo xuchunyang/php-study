@@ -1,7 +1,7 @@
 .vscode
 tailwind.min.css
 
-/vendor/
+vendor/
 
 *.db
 *.txt

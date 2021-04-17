@@ -1,0 +1,14 @@
+{
+    "name": "xcy/echo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Xu Chunyang",
+            "email": "xuchunyang56@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "laminas/laminas-diactoros": "^2.5"
+    }
+}
